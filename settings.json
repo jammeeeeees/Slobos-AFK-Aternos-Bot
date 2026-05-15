@@ -9,7 +9,7 @@
     "ip": "oogboogman123.aternos.me",
     "port": 61742,
     "version": "1.21.11",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
